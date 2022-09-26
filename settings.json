@@ -1,0 +1,39 @@
+{
+  "bookmarks.useWorkaroundForFormatters": true,
+  "prettier.trailingComma": "all",
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 3,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.extensionsPath": ["~/Documents/Emmet"],
+  "editor.linkedEditing": true,
+  "prettier.singleQuote": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": null
+    }
+  ],
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorTheme": "Cobalt2",
+  "liveServer.settings.donotVerifyTags": true,
+  "files.autoSave": "afterDelay",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "workbench.iconTheme": "vscode-icons",
+  "git.confirmSync": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "rapidapi.terminalLink.enabled": false
+}
